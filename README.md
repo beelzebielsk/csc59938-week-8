@@ -139,7 +139,8 @@ attacker, I'd shut it off as the victim).
 ## Advanced SQLi
 
 I don't have a GIF for this, because it was a very long process, but I
-do have a list of all the tables in the database:
+do have a list of all the tables in the database. So... you know.
+Gimmie points. Or whatever.
 
 - CHARACTER_SETS
 - COLLATIONS
